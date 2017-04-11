@@ -1,0 +1,14 @@
+1. Ask user if they want to make a card or try and answer 3 cards that are already stored in the program
+if user selects to answer a card then console.log the front(question side of card). 
+	then take the answer and match to the back of the card. 
+
+		If correct print you answered correctly and randomly select a new card. 
+		if incorrect print sorry wrong answer and display the correct answer. 
+		
+		then ask again. and then 1 more time.
+		print Correct answers: total correct
+		print incorrect answers: total incorrect. 
+
+
+take input from user for front of card question side and input for answer side of flashcard
+give each card a number and randomize the selection
